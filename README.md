@@ -1,4 +1,4 @@
-# updates
+# Updates
 
 Alternative data has become increasingly insightful in recent years. I will be using this GitHub account to share alternative datasets that can be used in analyzing economics, industries, companies, etc. For example, one may be able to gain insight into Fitbit by knowing how many Fitbit apps have been downloaded.
 
