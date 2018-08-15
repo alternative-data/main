@@ -1,4 +1,4 @@
-# Updates
+# Intro
 
 All information here must be public and obtained legally. Use data at your own discretion. I am not responsible for how you use or obtain data. 
 
